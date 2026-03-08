@@ -1,2 +1,8 @@
-# java-multithread_server
-Proyecto académico de Redes donde creamos un servidor echo concurrente multihilo que da servicio a varios clientes a la vez.
+# java-multithreaded_server
+
+Servidor TCP multihilo implementado en Java que permite gestionar múltiples clientes simultáneamente mediante threads.
+
+## Tecnologías
+- Java
+- TCP sockets
+- Multithreading
